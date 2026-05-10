@@ -4,7 +4,7 @@ go 1.21.1
 
 require (
 	github.com/gdamore/tcell/v2 v2.6.0
-	github.com/weshouman/goui v0.1.0
+	github.com/weshouman/goui v0.2.0
 	github.com/rivo/tview v0.0.0-20231005202632-57ac381f7440
 	github.com/sirupsen/logrus v1.9.3
 )
