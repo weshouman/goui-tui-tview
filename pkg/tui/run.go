@@ -8,10 +8,10 @@ import (
 	"github.com/rivo/tview"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ourorg/goui/pkg/domain"
-	"github.com/ourorg/goui/pkg/engine"
-	"github.com/ourorg/goui/pkg/spec"
-	"github.com/ourorg/goui/pkg/service"
+	"github.com/weshouman/goui/pkg/domain"
+	"github.com/weshouman/goui/pkg/engine"
+	"github.com/weshouman/goui/pkg/spec"
+	"github.com/weshouman/goui/pkg/service"
 )
 
 type Options struct {
